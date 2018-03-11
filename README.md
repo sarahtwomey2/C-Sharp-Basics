@@ -3,18 +3,18 @@
 Declare the following constants and variables and set their initial values as indicated.
 
 * Declare a constant of type unsigned 8 bit integer named sample1 with an initial value of 0x3A
-*Declare a variable of type unsigned 8 bit integer named sample2 with an initial value of 58
-*Declare an integer variable named heartRate with an initial value of 85
-*Declare a double variable named deposits that has an initial value of 135002796
-*Declare a float constant named acceleration that has an initial value of 9.800
-*Declare a float variable named mass that has an initial value of 14.6
-*Declare a double variable named distance that has an initial value of 129.763001
-*Declare a boolean variable named lost that has an initial value of true
-*Declare a boolean variable named expensive that has an initial value of true
-*Declare an integer variable named choice with an initial value of 2
-*Declare a constant that is a character type named integral that has a value of “\u{222B}”
-*Create a string constant named greeting that has an initial value of “Hello”
-*Create a string variable named name that has an initial value of “Karen”
+* Declare a variable of type unsigned 8 bit integer named sample2 with an initial value of 58
+* Declare an integer variable named heartRate with an initial value of 85
+* Declare a double variable named deposits that has an initial value of 135002796
+* Declare a float constant named acceleration that has an initial value of 9.800
+* Declare a float variable named mass that has an initial value of 14.6
+* Declare a double variable named distance that has an initial value of 129.763001
+* Declare a boolean variable named lost that has an initial value of true
+* Declare a boolean variable named expensive that has an initial value of true
+* Declare an integer variable named choice with an initial value of 2
+* Declare a constant that is a character type named integral that has a value of “\u{222B}”
+* Create a string constant named greeting that has an initial value of “Hello”
+* Create a string variable named name that has an initial value of “Karen”
 
 Using the constants and variables declared and initialized based on the above, do the following. Where is says “display” it means output a line to standard out. Each displayed item is to be on a separate line. Note that Kotlin has print and println.
 
