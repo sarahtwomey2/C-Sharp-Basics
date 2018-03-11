@@ -1,0 +1,5 @@
+/Users/sarahtwomey/Projects/LanguageBasics/LanguageBasics/bin/Debug/LanguageBasics.exe
+/Users/sarahtwomey/Projects/LanguageBasics/LanguageBasics/bin/Debug/LanguageBasics.pdb
+/Users/sarahtwomey/Projects/LanguageBasics/LanguageBasics/obj/x86/Debug/LanguageBasics.csproj.CoreCompileInputs.cache
+/Users/sarahtwomey/Projects/LanguageBasics/LanguageBasics/obj/x86/Debug/LanguageBasics.exe
+/Users/sarahtwomey/Projects/LanguageBasics/LanguageBasics/obj/x86/Debug/LanguageBasics.pdb
