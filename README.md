@@ -2,7 +2,7 @@
 
 Declare the following constants and variables and set their initial values as indicated.
 
-*Declare a constant of type unsigned 8 bit integer named sample1 with an initial value of 0x3A
+* Declare a constant of type unsigned 8 bit integer named sample1 with an initial value of 0x3A
 *Declare a variable of type unsigned 8 bit integer named sample2 with an initial value of 58
 *Declare an integer variable named heartRate with an initial value of 85
 *Declare a double variable named deposits that has an initial value of 135002796
